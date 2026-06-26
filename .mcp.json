@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "竞品搜索": {
+      "command": "py",
+      "args": ["D:/mcp-search-server/server.py"]
+    }
+  }
+}
